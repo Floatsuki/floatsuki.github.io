@@ -24,8 +24,7 @@ picture-in-picture" loading="lazy"></iframe>
 &nbsp;
 &nbsp;
 
-用白线画出的圆圈<br />
-我们两人就躺在其中<br />
+我们两人就躺在<br />白线画出的圆圈中<br />
 仰望上方笑着<br />
 纵然这没有高墙阻碍<br />
 我想我们也定不会<br />
