@@ -1,9 +1,13 @@
 +++
-title = 'Lia_light_in_the_air'
+title = 'Lia - Light In the Air'
 date = 2025-02-01T16:07:38+08:00
 draft = true
 
 +++
+
+# Lia - Light In the Air
+
+<iframe width="720" height="240" src="https://www.youtube.com/embed/xLQ003w8tzA" title="【Lia 25th Special】『Light In the Air』LIVE VIDEO (Shibuya O-East 2005.1.28)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 你说  为何憧憬总是如此遥不可及<br />
 没错  在彼时一切都那么让我珍爱<br />
