@@ -101,12 +101,21 @@
       border-radius: 3px;
   }
 
-  blockquote {
+<!--  blockquote {
       border-left: 1px solid #999;
       color: var(--code-color);
       padding-left: 20px;
       font-style: italic;
-  }
+  }-->
+  blockquote {
+  border-left: 4px solid var(--link-color);  /* 加粗边框并使用主题色 */
+  background-color: rgba(0, 0, 0, 0.03);     /* 浅灰色背景 */
+  color: var(--text-color);                  /* 使用正文颜色 */
+  padding: 1em 20px;                         /* 上下增加内边距 */
+  margin: 1.5em 0;                           /* 增加外边距 */
+  font-style: normal;                        /* 取消斜体 */
+  border-radius: 0 4px 4px 0;                /* 右侧圆角 */
+}
 
   footer {
       padding: 25px 0;
