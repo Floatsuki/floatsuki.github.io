@@ -1,0 +1,21 @@
+baseURL = 'https://floatsuki.github.io/'
+languageCode = 'zh-CN'
+title = 'ゆめのとちゅう'
+theme = 'hugo-bearblog'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+
+[[menu.main]]
+  name = "lrc"
+  url = "/lrc"
+[[menu.main]]
+  name = "misc"
+  url = "/misc"
+[[menu.main]]
+  name = "transl"
+  url = "/transl"
