@@ -24,9 +24,9 @@ picture-in-picture" loading="lazy"></iframe>
 &nbsp;
 &nbsp;
 
-我们两人就躺在<br />白线画出的圆圈中<br />
+我们两人躺在<br />白线画出的圆圈中<br />
 仰望上方笑着<br />
-纵然这没有高墙阻碍<br />
+纵然这里没有高墙<br />
 我想我们也定不会<br />
 跨出这界限吧<br />
 &nbsp;<br />
@@ -38,7 +38,7 @@ picture-in-picture" loading="lazy"></iframe>
 &nbsp;<br />
 逐渐不太吃得下<br />
 太过甜腻的甜甜圈<br />
-似乎变得有些接近他们了<br />
+似乎  变得有些接近他们了<br />
 可我们还是<br />
 不太习惯悲伤<br />
 所以  真正的接近<br />
