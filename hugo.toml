@@ -9,6 +9,11 @@ theme = 'hugo-bearblog'
       hardWraps = false
       unsafe = true
       xhtml = false
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.typographer]
+        disable = true
+
+
 
 [[menu.main]]
   name = "lrc"
