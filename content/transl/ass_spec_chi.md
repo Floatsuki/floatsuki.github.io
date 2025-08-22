@@ -20,11 +20,11 @@ draft = true
 12. 附录A：覆盖样式代码
 13. 附录B：嵌入字体/图片编码
 
-<span style='color: hibiscus'> 本文档最初是SSA的格式规范（可在http://www.eswat.demon.co.uk （ 编者注：https://web.archive.org/web/20030618072944/http://www.eswat.demon.co.uk/  找到）。更新和差异以红色标记。 </span>
+<span style='color: red'> 本文档最初是SSA的格式规范（可在http://www.eswat.demon.co.uk （ 编者注：https://web.archive.org/web/20030618072944/http://www.eswat.demon.co.uk/  找到）。更新和差异以红色标记。 </span>
 
 ## 0. 编者注
 
-这是当年应用程序“Sub Station Alpha”开发的SSA脚本V4.00的文档，而如今最风靡的.ass格式则是SSA脚本的拓展，Script Type为V4.00**+** 。文中的 *SSA* 并不指代字幕格式，而是这款应用程序，*“SSA”脚本* 才是SSA格式的意思。
+这是当年应用程序“Sub Station Alpha”开发的SSA脚本V4.00的文档，而如今最风靡的.ass格式则是SSA脚本的拓展，Script Type为V4.00 **+** 。文中的 *SSA* 并不指代字幕格式，而是这款应用程序，*“SSA脚本”* 才是SSA格式的意思。
 
 但请注意，**这并不是如今的事实标准**。当时的实现比较青涩，后来最流行的字幕渲染器VSFilter、libass、字幕编辑器Aegisub等并未完全照搬实现，有部分行为不一致。例如增加了新的Sections和Script Info Line、Text行前允许有隐藏的{=}与Extra Data Section联动、影片事件和声音事件事实废除等等……本资料仅供历史参考。
 
