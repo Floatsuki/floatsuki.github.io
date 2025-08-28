@@ -25,6 +25,9 @@ jobs:
       - name: Install dependencies
         run: pnpm i
 
+      - name: StelveKit sync
+        run: pnpm svelte-kit sync
+
       - name: build
         env:
           BASE_PATH: '/${{ github.event.repository.name }}'

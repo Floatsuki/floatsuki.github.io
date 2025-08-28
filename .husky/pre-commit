@@ -1,3 +1,4 @@
-pnpm svelte-kit sync && svelte-check --tsconfig ./tsconfig.json
+pnpm svelte-kit sync
+pnpm svelte-check --tsconfig ./tsconfig.json
 prettier -c .
 eslint .
