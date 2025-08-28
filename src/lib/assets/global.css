@@ -1,0 +1,12 @@
+@import url('https://fontsapi.zeoseven.com/416/main/result.css');
+
+@import url('https://fontsapi.zeoseven.com/416/bold/result.css');
+
+@import 'tailwindcss';
+
+body {
+	font-family: 'Plix';
+	font-size: 16px;
+	background-color: #fafafa;
+	color: #626161;
+}
